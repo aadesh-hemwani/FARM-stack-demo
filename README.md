@@ -1,7 +1,7 @@
 # FARM-stack-demo
-FA: FastApi
-R: React JS
-M: MongoDB
+<b>FA</b> FastApi <br/>
+<b>R</b> React JS <br/>
+<b>M</b> MongoDB <br/>
 
 # Description
 A demo checklist app to keep a list of things todo
